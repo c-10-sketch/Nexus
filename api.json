@@ -1,4 +1,4 @@
 {
-  "asklogin": true,
+  "asklogin": false,
   "urlloginapi": "https://tkserver.serv00.net/Panel/login.php"
 }
