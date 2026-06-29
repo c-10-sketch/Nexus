@@ -1,5 +1,5 @@
 {
-  "banned": true,
+  "banned": false,
   "message": "This application has been shared without the admin's permission. To continue using this application, please contact the admin and obtain permission.",
   "button": {
     "text": "Unban Me",
